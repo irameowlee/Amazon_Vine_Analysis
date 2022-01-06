@@ -13,4 +13,4 @@ We are working with Jennifer on analyzing Amazon reviews. We will be working wit
 * percentage of non-Vine reviews that were 5 stars : 47.9%
 
 ##Summary:
-Slight positive bias. Paid reviewers are ten percent more likely to give a 5 star review, compared to the non-vine reviewers. 
+Slight positive bias. Paid reviewers are ten percent more likely to give a 5 star review, compared to the non-vine reviewers. Data would be more accurate if number of vine reviews were higher. 
